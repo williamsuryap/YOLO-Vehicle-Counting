@@ -1,18 +1,3 @@
----
-title: Vehicle Counting & Classification
-emoji: 🚗
-colorFrom: cyan
-colorTo: emerald
-sdk: gradio
-sdk_version: "4.44.1"
-app_file: app.py
-pinned: true
-license: mit
-short_description: Real-time vehicle detection, tracking & counting with YOLOv8
----
-
-<div align="center">
-
 # 🚗 Vehicle Counting & Classification
 
 **Real-time vehicle detection, multi-class classification, and directional counting**
@@ -212,7 +197,3 @@ vehicle-counting-classification/
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
-
-<div align="center">
-<sub>Built with ❤️ by <a href="https://github.com/williamsuryap">William Surya</a></sub>
-</div>
